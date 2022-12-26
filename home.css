@@ -8,12 +8,12 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.body
+body
 {
     min-height: 100vh;
 }
 
-.header
+header
 {
     background-color: orange;
     position: absolute;
@@ -24,4 +24,24 @@
     display: flex;
     justify-content: space-between;
     align-items: center; 
+}
+
+header ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header ul li
+{
+    list-style: none;
+    margin-left: 20px;
+}
+
+header ul li a
+{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff
 }
