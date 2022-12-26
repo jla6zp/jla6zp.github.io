@@ -10,12 +10,12 @@
 
 body
 {
+    background-color: black;
     min-height: 100vh;
 }
 
 header
 {
-    background-color: orange;
     position: absolute;
     top: 0;
     Left: 60px;
