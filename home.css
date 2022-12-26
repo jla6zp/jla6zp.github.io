@@ -18,11 +18,11 @@ header
 {
     position: absolute;
     top: 0;
-    Left: 60px;
+    Left: 0;
     width: 100%;
-    padding: 30px 100px;
+    padding: 30px 30px;
     display: flex;
-    justify-content: space-between;
+    justify-content: right;
     align-items: center; 
 }
 
