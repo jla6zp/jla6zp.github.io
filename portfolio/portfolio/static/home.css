@@ -45,3 +45,23 @@ header ul li a
     padding: 6px 15px;
     color: #fff
 }
+
+section
+{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+}
+
+#mountainFront
+{
+    position: absolute;
+    top: 390px;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
